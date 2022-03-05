@@ -1,1 +1,1 @@
-# Phyton class
+# Python class
