@@ -1,0 +1,55 @@
+Basic python (20-25 days) 
+
+Introduction to python
+Python / programming basic (variable/datatype/Data strucutre)
+Writing basic pgms
+String Indexing and slicing
+Data structures in python (list/tuple/set/Dictionary)
+Data structure method
+Conditional stmt
+Loops (while for )
+Functions in python
+
+Miniproject and project1 
+Test1 (50 marks)  Test1 (50 marks (50 mins), pass mark: 35, 25 marks mcq+ 25 marks pgms (5 pgms)) 
+(eLigibility: Hackerrank  200-220 points, 
+              mini project completion, 
+              project1 completion, 
+              75 pgms from https://www.geeksforgeeks.org/python-programming-examples/)
+Test1 Date: 
+
+https://www.geeksforgeeks.org/python-programming-examples/  (75 pgms before Test1 date)
+
+Medium level (15 - 20 days)
+
+Modules in python 
+Anonymous functions 
+Comprehensions 
+Exception Handling  
+File handling 
+OS and sys module 
+itertools module 
+Collections module 
+Datetime module 
+Regular expression 
+
+Project2:
+Test2   (eligibility: 330 point hackerrank python (Or Hackerrank 200, GeeksforGeeks: 100 pgms), 300 points in hackerrank regex, miniproject/project1 should be completed project2 50%,)
+
+Advanced level (15-days)
+
+OOPS  (On going)
+Inheritance
+Abstract class
+Encapsulation
+polymorphism
+Multi threading
+Database connectivity
+Decorators / generator / iterators  / dynamic args /closures pending concepts
+Networking basics
+Django basics
+
+
+Project3
+Test3
+Resume review / linked review
